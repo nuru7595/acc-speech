@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 export default function App() {
   return (
     <>
-      <Header text="Speech" />
+      <Header text="Speech - 8" />
       <main className="container">
         <section>
           <div className="section-container space-y-6 text-xl font-bold">
