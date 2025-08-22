@@ -4,13 +4,13 @@ import Footer from "./components/Footer";
 export default function App() {
   return (
     <>
-      <Header text="Speech - 32" />
+      <Header text="Speech - 40x" />
       <main className="container">
         <section>
           <div className="section-container space-y-6 text-xl font-bold">
             <p>
-              সম্মানিত প্রধান শিক্ষক মহোদয়, প্রিয় শিক্ষকবৃন্দ, শ্রদ্ধেয় বড়
-              ভাইবোন এবং আমার প্রিয় সহপাঠীগণ,
+              সম্মানিত অধ্যক্ষ মহোদয়, প্রিয় শিক্ষকবৃন্দ, শ্রদ্ধেয় বড় ভাইবোন
+              এবং আমার প্রিয় সহপাঠীগণ,
               <br />
               আসসালামু আলাইকুম।
             </p>
